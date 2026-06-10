@@ -1,0 +1,45 @@
+Prompt 1:
+Create a C program that uses a 2D character array as a canvas.
+The canvas should be initialized with '_' characters and displayed on the screen.
+
+Prompt 2:
+Write a displayCanvas() function to print the contents of the 2D array.
+
+Prompt 3:
+Write a drawRectangle() function that draws a rectangle using '*' characters on the canvas.
+
+Prompt 4:
+Write a drawLine() function in C that draws a line on a 2D character array canvas.
+
+Prompt 5:
+Write a drawTriangle() function that draws a triangle using three points and line-drawing functions.
+
+Prompt 6:
+Write a drawCircle() function that draws a circle on a 2D character array using '*' characters.
+
+Prompt 7:
+Convert the graphics program into a menu-driven application with options to draw shapes, display the canvas, clear the canvas, and exit.
+
+Prompt 8:
+Help me compile and run the graphics editor in VS Code using GCC.
+
+Prompt 9:
+Help me connect my local project to GitHub and push commits using GitHub Desktop.
+
+Prompt 10:
+Suggest commit messages for the graphics editor project.
+
+Prompt 11:
+Explain how to store graphical objects in structures and arrays for a simple graphics editor.
+
+Prompt 12:
+Suggest how to implement add object, delete object, and modify object functionality in a menu-driven graphics editor.
+
+Prompt 13:
+Explain how to redraw the canvas after shapes are added, deleted, or modified.
+
+Prompt 14:
+Suggest a README.md file for a C-based 2D Graphics Editor project.
+
+Prompt 15:
+Review the project requirements and explain which features are needed for full marks.
